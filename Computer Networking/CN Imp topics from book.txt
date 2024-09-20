@@ -1,0 +1,8 @@
+CN Imp topics from book:-
+( Pg.no. - Topic )
+
+39 - A communication model
+42 - 	Data communication
+57 - A Simple Protocol Architecture
+61 -  The TCP/IP Protocol Architecture
+315 - Comparison of Communication Switching Techniques
