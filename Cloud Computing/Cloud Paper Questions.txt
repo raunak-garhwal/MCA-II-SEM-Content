@@ -1,0 +1,114 @@
+Cloud Paper 2023
+
+Unit-I
+1. Define virtualization. Discuss in brief different types of virtualization.
+2. List major cloud vendors and discuss in brief their prominent offerings.
+3. How is storage virtualization achieved in practice?
+4. How is bare metal hypervisor different from hosted hypervisor?
+5. Part-C: Draw and discuss the cloud computing architecture in detail.
+
+Unit-II
+1. How is social network mining achieved in a cloud environment? Explain with an example.
+2. Discuss S3 services in detail.
+3. Differentiate between Macie and Sage Maker services. 
+4. Draw a detailed comparison between prominent cloud service providers focusing on features like establishment, availability zones, pricing, compute power, storage facility and some key tools.
+5. Part-C: Discuss in detail and compare Macie and Sage Maker services.
+
+Unit-III
+1. What is the basic difference between elastic load balancing and auto-scaling?
+2. What is the basic difference between federated cloud and intercloud?
+3. How do BC and DR (Business Continuity and Disaster Recovery) get achieved by organizations leveraging the cloud environment?
+4. What are the risks in migrating to the cloud?
+5. Part-C: How does server consolidation achieve green cloud design objectives?
+
+Unit-IV
+1. What is iSCSI protocol used for?
+2. List and elaborate on any five big data processing techniques.
+3. What is SLA (Service Level Agreement) and why is it necessary for a Cloud Service Provider?
+4. Which protocol is better between FC (Fibre Channel) and FCoE (Fibre Channel over Ethernet)? Justify your answer.
+5. Part-C: What is HIVE? Draw its architecture and discuss all components.
+
+Unit-V
+1. What is checkpointing?
+2. What is SLO?
+3. What metrics are used in measuring the reliability and performance of cloud systems?
+4. Discuss issues in formation of consensus ?
+5. Part-C: Discuss in detail BA (Byzantine Agreements) with respect to agreements and consensus.
+
+
+
+
+
+Cloud Paper 2022
+
+Part - A
+
+1. What is network virtualization?
+2. What is storage virtualization?
+3. Describe some of the services provided by Microsoft Azure.
+4. What is (a) Macie (b) SageMaker?
+5. What is third-party cloud services?
+6. What are the goals of disaster recovery and how are they achieved?
+7. What is HDFS and how it works?
+8. Discuss about any two storage networking technologies in cloud.
+9. Explain on-demand computing and differentiate between the types of hypervisors.
+10. What is XaaS? What is monetizing data in cloud environment?
+
+Part - B
+
+1. Differentiate between Type I and Type II hypervisor.
+2. Differentiate between grid, cluster, and cloud computing in a pointwise manner.
+3. Describe any four services provided by Amazon EC2.
+4. What do you mean by Social Network Analysis? How can Cloud Computing help in analysis?
+5. Define SLA. What are the parameters to measure SLA?
+6. What is a Federated cloud? List any three technologies that aid in the federation of clouds.
+7. List some major differences between SAN and NAS.
+8. Why is security essential in a cloud environment? How is it achieved?
+
+
+
+
+
+Cloud Paper 2021
+
+Part - A
+
+1. Define Cloud Computing.  
+2. What is Virtualization?  
+3. Name few vendors in cloud computing.
+4. What is Data Analysis?  
+5. What is meant by cloud security?  
+6. What is service level agreement?  
+7. Define FCIP.  
+8. Define HDFS.  
+9. What is private and public clouds?  
+10. Define Google App Engine.
+
+Part B:
+
+2. (a) Discuss the layers and service models in cloud computing.  
+   (b) Discuss the types of hypervisor.
+
+3. (a) Cloud computing architecture.  
+   (b) Cloud reference models.
+
+4. (a) Discuss the major vendors and their offerings in cloud computing.  
+   (b) Write a note on Amazon Web Services.
+
+5. (a) Explain cloud applications and satellite image processing.  
+   (b) Write a note on social networking.
+
+6. (a) Discuss risks and approaches of migration into cloud.  
+   (b) Explain elastic load balancing and auto-scaling.
+
+7. (a) Write short notes on the following:  
+   (i) Cloud security  
+   (ii) Third-party cloud services.
+   (iii) server consolidation and placement policies.
+
+8. Discuss the hybrid storage networking technologies.
+
+9. (a) Discuss the techniques for big data processing.  
+    (b) Discuss the Hadoop Distributed File System (HDFS).
+
+

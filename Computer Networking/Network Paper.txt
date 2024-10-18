@@ -1,0 +1,102 @@
+PART A
+
+Explain Manchester and Differential Manchester with an example bit stream as 01001100011. 
+List some wireless networks available for data communication today.
+Draw the OSI layer
+What is CRC error checksum method? Explain with an example 
+What is Encoding? 
+What is Circuit Switching mode of communication?
+What is Space Division switching ?  
+What is the significance/meaning of “802” in IEEE 802 standards?  
+What is ATM? Explain few benefits of ATM Technology.  
+Find the class of the following IP addresses:-
+a. 11110111 11110011 10000111 11011101
+b. 10101111 11000000 11110000 00011101
+c. 11011111 10110000 00011111 01011101
+d. 11101111 11110111 11000111 00011101
+An address space uses the three symbols 0, 1, and 2 to represent addresses. If each address is made of 10 symbols(bits or places), how many addresses are available in this system?
+
+ 
+ 
+PART B
+
+UNIT I
+Differentiate between Connection oriented and connectionless services
+What is Bandwidth? Give the Shannon capacity formula with its explanation.
+
+UNIT II
+Explain the sliding window protocol used for data communication with an example.
+Differentiate between asynchronous and synchronous Mode of transmission. 
+
+UNIT III
+What are the four generic components in public telecommunications network? 
+What is packet switching? What are its advantages as compared to Circuit Switching
+
+UNIT IV
+What are the difference between L2 and L3 switches
+What is FDDI? Explain few benefits of FDDI Technology.  
+
+UNIT V
+What is HTTP protocol? Explain its working in detail.
+What is IPv6? List its advantages. Why we need to replace existing IPv4 with IPv6?
+
+
+
+
+PART C
+
+What are the various Design issues for the layers in networking ?  
+
+List various data encoding schemes? Explain any two of them giving suitable example. 
+
+Explain Time Division Multiplexing. 
+
+Explain the working of CSMA/CD.
+
+Draw and explain all fields of IPv4 Header.
+
+
+
+
+
+Designing layers in a computer network involves several considerations to ensure efficient, reliable, and scalable communication between devices. Each layer of a network architecture serves a specific purpose and has its own set of design issues. Here’s a breakdown of common design issues associated with different layers of a computer network:
+
+1. Physical Layer
+Media Choice: Selecting between wired (e.g., Ethernet, fiber optic) and wireless (e.g., Wi-Fi, Bluetooth) media based on factors like distance, bandwidth requirements, and environmental conditions.
+Signal Integrity: Ensuring that signals are transmitted with minimal distortion and interference, which involves considering signal attenuation, noise, and crosstalk.
+Bandwidth and Speed: Choosing appropriate hardware and media that can handle the required data transfer speeds and bandwidth.
+
+2. Data Link Layer
+Error Detection and Correction: Implementing mechanisms to detect and correct errors in the transmitted data, such as checksums, CRC (Cyclic Redundancy Check), and error correction codes.
+Frame Synchronization: Ensuring that data frames are correctly synchronized between sender and receiver, which involves dealing with frame delimiters and alignment.
+Flow Control: Managing the rate of data transmission between devices to prevent overwhelming slower devices or networks, using protocols like sliding window or acknowledgments.
+MAC Addressing: Designing efficient MAC (Media Access Control) address schemes and handling issues related to MAC address conflicts and uniqueness.
+
+3. Network Layer
+Routing and Forwarding: Developing efficient routing algorithms and protocols to determine the best path for data to travel across the network, and managing issues related to routing table updates and convergence.
+Addressing: Implementing addressing schemes (e.g., IP addressing) that ensure unique identification of devices and effective communication, including handling subnetting and address allocation.
+Scalability: Designing the network to scale with increasing numbers of devices and traffic, which includes handling issues like IP address exhaustion and hierarchical routing.
+
+4. Transport Layer
+Connection Management: Managing the establishment, maintenance, and termination of connections, including handling issues related to connection setup and teardown.
+Reliability: Ensuring reliable data transfer through mechanisms like retransmission of lost packets, acknowledgment of received packets, and in-order delivery of data.
+Flow Control: Managing data flow between sender and receiver to prevent buffer overflow and ensure efficient use of network resources.
+
+5. Session Layer
+Session Management: Handling the establishment, management, and termination of sessions between applications, including dealing with session state and synchronization.
+Checkpointing and Recovery: Implementing mechanisms to save the state of a session and recover from interruptions or failures, ensuring data consistency and continuity.
+
+6. Presentation Layer
+Data Translation: Ensuring that data is correctly translated between different formats and representations, such as character encoding and data compression.
+Encryption and Decryption: Implementing security measures to protect data confidentiality and integrity through encryption and decryption processes.
+
+7. Application Layer
+Protocol Design: Designing application-level protocols that define how applications communicate over the network, including handling issues related to protocol efficiency and robustness.
+Interoperability: Ensuring that applications from different vendors or running on different platforms can communicate effectively, which involves standardizing interfaces and data formats.
+Security: Implementing security measures to protect data from unauthorized access, including authentication, authorization, and data encryption.
+General Design Issues Across Layers
+Scalability: Ensuring that the network design can handle growth in terms of the number of devices, traffic volume, and geographic expansion.
+Reliability and Fault Tolerance: Designing the network to handle failures and recover gracefully, including implementing redundancy and failover mechanisms.
+Performance: Optimizing network performance by minimizing latency, maximizing throughput, and managing congestion.
+Security: Addressing security concerns at all layers to protect against various types of attacks, including unauthorized access, data breaches, and denial-of-service attacks.
+Designing a network involves careful consideration of these issues at each layer to create a robust, efficient, and secure communication system.
