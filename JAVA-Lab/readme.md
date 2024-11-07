@@ -26,12 +26,3 @@ This guide provides detailed instructions on setting up a JDBC connection in Vis
 4. **Run the Java File**
    - Run your Java program using the **Run Java** button in VS Code (right-click your file and select "Run Java").
    - **Important:** Do **not** use the **Code Runner** (Run Code button) to avoid issues related to dependency handling.
-
----
-
-## Notes
-Ensure all dependencies and configurations are correctly set up in your project to prevent connection issues.
-
----
-
-Enjoy coding with JDBC in VS Code!
