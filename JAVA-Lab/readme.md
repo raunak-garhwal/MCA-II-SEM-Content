@@ -14,7 +14,7 @@ This guide provides detailed instructions on setting up a JDBC connection in Vis
    - Go to the Extensions view in VS Code (`Ctrl+Shift+X`), search for "Project Manager for Java," and install it.
 
 2. **Add the JDBC `.jar` File**
-   - Open your Java project in VS Code (folder in which the JDBC files are present).
+   - Open your Java project in VS Code (open the folder in which the JDBC files are present).
    - Go to the **Java Projects** tab in the Explorer panel.
    - Under the **Referenced Libraries** section, click the **'+'** sign.
    - Add the `.jar` file (e.g., `mysql-connector-java.jar`) as a referenced library for JDBC functionality.
