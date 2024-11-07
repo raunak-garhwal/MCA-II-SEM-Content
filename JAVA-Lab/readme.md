@@ -24,5 +24,5 @@ This guide provides detailed instructions on setting up a JDBC connection in Vis
    - Start the **Apache Server** and **MySQL** services.
 
 4. **Run the Java File**
-   - Run your Java program using the **Run Java** button in VS Code (right-click your file and select "Run Java").
+   - Run your Java program using the **Run Java** button in VS Code.
    - **Important:** Do **not** use the **Code Runner** (Run Code button) to avoid issues related to dependency handling.
