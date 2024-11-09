@@ -47,3 +47,9 @@ Design a class to represent a bank account. Include the following members:
   - To deposit an amount
   - To withdraw an amount after checking balance
   - To display the name and balance
+
+---
+
+### 7. Create and Display Student Object
+
+Write a program to create a `Student` object and display its details using setData() and getData() methods.
