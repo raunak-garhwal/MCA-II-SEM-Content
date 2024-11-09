@@ -1,4 +1,4 @@
-# Java Assignment Questions
+# ASSIGNMENT 2 QUESTIONS
 
 1. Encapsulation: Write a Java program to create a class Student with private fields for name, age, and grade. Provide public getter and setter methods for each field. Ensure that the age and grade are within a valid range (e.g., age between 5 and 25, grade between 1 and 10).
 
